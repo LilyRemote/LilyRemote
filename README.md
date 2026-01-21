@@ -52,12 +52,14 @@ Even without code-heavy repositories, you’ll find structure, logic, and real-w
 Outside of work, I love languages, design, travel, and long-distance running.  
 I’m also exploring coastal Spain as a future home base.
 
-![Profile views](https://komarev.com/ghpvc/?username=LilyRemote&color=blue)
 
 ---
 
 ## 📫 Connect with me
 
 - **LinkedIn:** [(https://www.linkedin.com/in/lilymeder]  
-- **Location:** Zurich area, Switzerland / exploring coastal Spain  
+- **Location:** Zurich area, Switzerland / exploring coastal Spain
+
+![Profile views](https://komarev.com/ghpvc/?username=LilyRemote&color=blue)
+
 
