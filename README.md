@@ -62,4 +62,6 @@ I’m also exploring coastal Spain as a future home base.
 
 ![Profile views](https://komarev.com/ghpvc/?username=LilyRemote&color=blue)
 
+https://komarev.com/ghpvc/?username=LilyRemote&label=Visitors
+
 
